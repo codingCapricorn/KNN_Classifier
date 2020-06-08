@@ -26,7 +26,7 @@ Order of Repository subparts :
 
       4.kNN prediction grids
 
-      5.Compairing self-developed kNN_scikitlearn  VS  organic_on_IRIS algorithm performances
+      5.Compairing kNN_scikitlearn  VS  organic_on_IRIS algorithm performances
 
 
 Pull Requests are welcome !!
