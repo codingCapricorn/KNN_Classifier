@@ -28,5 +28,3 @@ The Repository consists of following subparts :
 
       5.Compairing kNN_scikitlearn  VS  organic_on_IRIS algorithm performances
 
-
-Pull Requests are welcome !!
