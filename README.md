@@ -16,7 +16,7 @@ Given a positive integer k,  say 5, and a new data point, it first identifies th
 
 
 
-Order of Repository subparts :
+The of Repository subparts :
 
       1.kNN distance algorithm
 
