@@ -14,7 +14,7 @@ This repository deals with one specific approach to classification.The goal is t
 
 Given a positive integer k,  say 5, and a new data point, it first identifies those k points in the data that are nearest to the point and classifies the new data point as belonging to the most common class among those k neighbors.
 
-
+#
 
 The Repository consists of following modules ::::
 
