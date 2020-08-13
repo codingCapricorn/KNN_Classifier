@@ -1,6 +1,7 @@
 # KNN_Classifier
 
 ### Developing Own K-Nearest Neighbour(KNN)-A Machine Learning Algorithm 
+
 #
 
 Statistical learning refers to a collection of mathematical and computation tools to understand data.In what is often called supervised learning, the goal is to estimate or predict an output based on one or more inputs.The inputs have many names, like predictors, independent variables,features, and variables being called common.The output or outputs are often called response variables,or dependent variables.
