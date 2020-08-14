@@ -18,7 +18,7 @@ Given a positive integer k,  say 5, and a new data point, it first identifies th
 
 #
 
-##The Repository consists of following modules ::::
+###The Repository consists of following modules ::::
 
       1.kNN distance algorithm
 
