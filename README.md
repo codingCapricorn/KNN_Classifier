@@ -24,7 +24,7 @@ Given a positive integer k,  say 5, and a new data point, it first identifies th
 
       -->> 2.kNN nearest neighbour using majority votes
 
-      -3.kKK predict using synthetic points
+      --3.kKK predict using synthetic points
 
       4.kNN prediction grids
 
