@@ -22,7 +22,7 @@ Given a positive integer k,  say 5, and a new data point, it first identifies th
 
       -->> 1.kNN distance algorithm
 
-      2.kNN nearest neighbour using majority votes
+      -->>2.kNN nearest neighbour using majority votes
 
       3.kKK predict using synthetic points
 
