@@ -26,7 +26,7 @@ Given a positive integer k,  say 5, and a new data point, it first identifies th
 
       -->> 3.kKK predict using synthetic points
 
-      4.kNN prediction grids
+      -4.kNN prediction grids
 
       5.Compairing kNN_scikitlearn  VS  organic_on_IRIS algorithm performances
 
