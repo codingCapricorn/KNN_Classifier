@@ -28,6 +28,6 @@ Given a positive integer k,  say 5, and a new data point, it first identifies th
 
       -->> 4.kNN prediction grids
 
-      -5.Compairing kNN_scikitlearn  VS  organic_on_IRIS algorithm performances
+      - 5.Compairing kNN_scikitlearn  VS  organic_on_IRIS algorithm performances
 
 #
